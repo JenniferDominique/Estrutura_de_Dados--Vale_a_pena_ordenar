@@ -20,7 +20,7 @@ def main():
     # Cabeçalho do programa
     print("|------------------------------------[EP1 - Vale a pena ordenar?]--------------------------------------|\n"
         "|                      Estrutura de Dados - Analise e Desenvolvimento de Sistemas                      |\n"
-        "|                      Aluno: Jennifer Dominique Dias Santos - FATEC - SJC 2020                        |\n"
+        "|                      Aluno: Jennifer Dominique - FATEC - SJC 2020                                    |\n"
         "|                                                                                                      |\n"
         "|                   Algoritmo escolhido: Todos       Duração dos testes: 30.00                         |\n"
         "|                     Tempos de Ordenacao                                Numero de Buscas              |\n"          
