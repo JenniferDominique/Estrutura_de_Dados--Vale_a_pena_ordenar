@@ -1,4 +1,5 @@
-# Estrutura de Dados - Vale a pena ordenar? - ED FATEC SJC-2020
+# Estrutura de Dados - Vale a pena ordenar? 
+## ED FATEC SJC - 2020
 
 ### 👨🏽‍🏫 Professor Orientador: [Fernando Masanori](https://github.com/fmasanori)
 
